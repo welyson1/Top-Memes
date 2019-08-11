@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "965591060743",
+    "firebase_url": "https://memes-lite.firebaseio.com",
+    "project_id": "memes-lite",
+    "storage_bucket": "memes-lite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965591060743:android:4ea3353820c56c46",
+        "android_client_info": {
+          "package_name": "brasilmemes.memeslite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965591060743-i25f7h26g8p9f6p9f15kuon5i024qeic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "brasilmemes.memeslite",
+            "certificate_hash": "72d8f74b30129bf340ee74b74d6109d4ac75fd75"
+          }
+        },
+        {
+          "client_id": "965591060743-06bpm74g5brs7qd7oj9094q2vfe0odv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIz-Sgvmaj8QL5Q3hfUA9x6bygLn8zJkE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965591060743-06bpm74g5brs7qd7oj9094q2vfe0odv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
